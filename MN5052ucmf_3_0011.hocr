@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN5052ucmf_3_0011.png"; bbox 0 0 1715 2812; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 360 1265 632 1314">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 360 1265 632 1314">
+     <span class='ocr_line' id='line_1_1' title="bbox 360 1265 632 1314; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 360 1265 632 1314; x_wconf 75' lang='lat' dir='ltr'>PARls-AUTEUIL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 167 1389 817 1428">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 167 1389 817 1428">
+     <span class='ocr_line' id='line_1_2' title="bbox 167 1389 817 1428; baseline 0.006 -4"><span class='ocrx_word' id='word_1_2' title='bbox 167 1390 226 1428; x_wconf 76' lang='grc' dir='ltr'><strong>ΙΜΡ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 247 1390 296 1426; x_wconf 85' lang='lat' dir='ltr'><strong>DES</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 314 1389 636 1426; x_wconf 75' lang='lat' dir='ltr'>APPRENTIS-ORPHELINS</span> <span class='ocrx_word' id='word_1_5' title='bbox 652 1404 681 1410; x_wconf 82' lang='lat'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 696 1391 817 1427; x_wconf 81' lang='lat' dir='ltr'>ROUSSEL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 354 1485 635 1532">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 354 1485 635 1532">
+     <span class='ocr_line' id='line_1_3' title="bbox 354 1485 635 1532; baseline -0.004 -9"><span class='ocrx_word' id='word_1_7' title='bbox 354 1486 383 1530; x_wconf 78' lang='lat'><strong>40,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 395 1495 432 1523; x_wconf 76' lang='lat' dir='ltr'><strong>rue</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 443 1485 474 1522; x_wconf 78' lang='lat' dir='ltr'><strong>La</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 486 1485 593 1532; x_wconf 70' lang='lat' dir='ltr'><strong>Fontaine,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 605 1487 635 1522; x_wconf 82' lang='lat'><strong>40.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 862 2812">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 862 2812">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 862 2812; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 862 2812; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
